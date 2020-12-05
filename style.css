@@ -1,0 +1,63 @@
+body{
+           background: url('images/2.jpg');
+}
+
+
+h1{
+        font-family: monospace;
+        font-size: 40px;
+        font-weight: 700;
+        text-align: center;
+        text-transform: uppercase;
+        padding-top: -20px;
+        padding-bottom: -20px;
+        color: aliceblue;
+
+}
+
+table{
+         width: 720px;
+         margin: auto;
+         font-family: monospace;
+         border-collapse: seperate;
+         border-width: 30px;
+         border-style: solid;
+         border-radius: 50px;
+         border-color: gray;
+         box-shadow: -1px 12px 12px -6px rgba(0, 0, 0, 1;);
+         padding: 5px;
+         pointer: cursor;
+
+}
+
+th {
+          font-weight: 800;
+          background-color: gray;
+          color: darkkhaki;
+     padding: 20px;
+border-radius: 50px;
+    
+    
+    
+}
+
+tr{
+    font-weight: 300;
+    background-color:gray;
+    padding: 20px;
+    
+    
+    
+}
+td{
+        font-size: 18px;
+        font-family: fantasy;
+        align-content: space-around;
+        color:aliceblue;
+        padding: 20px 20px 20px 20px;
+        border-styling: solid;
+        border-right: 1px solid #c1dad7;
+        border-bottom: 1px solid #c1dad7;
+        border-radius: 50px;
+    
+}
